@@ -1,4 +1,4 @@
-# C-CPP-Project
+# Clock_cpp_project
 Here You will find some easy C and C++ project.
 
 To Run the code you firstly need to add graphic.h header file in your compiler.
